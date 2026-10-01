@@ -1,0 +1,6 @@
+@ProvaApi_HostAddress = http://localhost:5201
+
+GET {{ProvaApi_HostAddress}}/exemplo
+Accept: application/json
+
+###
